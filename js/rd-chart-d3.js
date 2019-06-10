@@ -16,9 +16,7 @@
             for(i=0; i<data.length; i++){
                 data1[i]=d3.entries(data[i]);
             }
-            console.log(data1);
-            console.log("data1");
-           
+
             /* Draw the Chart */
             
             var color= d3.schemeCategory20b;

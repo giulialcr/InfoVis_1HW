@@ -1,6 +1,3 @@
-/* Modify the original Radar chart  created by Nadieh Bremer - VisualCinnamon.com */
-
-
 function RadarChart(id, data, options) {
     var cfg = {
      w: 700,                //Width of the circle
